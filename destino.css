@@ -1,0 +1,119 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.courses{
+    padding: 30px;
+}
+
+
+
+h1{
+    border: 1px solid black;
+    display: inline-block;
+}
+.t1{
+    margin-right: 30px;
+}
+.t2{
+    margin-right: 50px;
+}
+.t3{
+    Padding: 50px;
+}
+
+.t4{
+
+    padding-top: 20px 60px; 
+}
+.t5{
+    padding: 10px 20px 5px 1px;
+}
+.t6{
+   margin-left: -20px;
+}
+
+.t7{
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.img{
+    width: 180px;
+}
+
+header{
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+    padding: 60px;
+} 
+nav a{
+    
+    text-decoration: underline;
+    color: black;
+}
+nav a:hover{
+    text-decoration: cadetblue ;
+}
+
+.welcome{
+    padding: 20px;
+    background-color: rgb(100, 202, 197);
+    text-align: center;
+    color: aliceblue;
+}
+
+
+body{
+    background-color: rgb(134, 141, 131)
+ 
+
+}
+
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+  
+
+.card{
+margin: 20px;
+width: 300px;
+border-radius: 20px;
+padding-right: 10px;
+background-color: rgb(240, 223, 226);
+box-shadow: 20px 20px 20px rgb(0, 0, 0);
+overflow: hidden;
+font-family: "Nothing You Could Do", cursive;
+font-weight: 400;
+font-style: normal;
+
+}
+
+.card-img{
+    width: 80%;
+    border-radius: 30px;
+    padding-bottom: 10px;
+    
+
+}
+.card-hover{
+background-color: coral;
+box-shadow: 0 5px 15px black;
+transform: scale(1.05);
+}
+
+
+.tarjetas{
+    display: flex;
+}
+
+
+

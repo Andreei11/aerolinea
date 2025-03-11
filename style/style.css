@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.courses{
+    padding: 30px;
+}
+
+
+
+h1{
+    border: 1px solid black;
+    display: inline-block;
+}
+.t1{
+    margin-right: 30px;
+}
+.t2{
+    margin-right: 50px;
+}
+.t3{
+    Padding: 50px;
+}
+
+.t4{
+
+    padding-top: 20px 60px; 
+}
+.t5{
+    padding: 10px 20px 5px 1px;
+}
+.t6{
+   margin-left: -20px;
+}
+
+.t7{
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.img{
+    width: 180px;
+}
+
+header{
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+    padding: 60px;
+} 
+nav a{
+    
+    text-decoration: underline;
+    color: black;
+}
+nav a:hover{
+    text-decoration: cadetblue ;
+}
+
+.welcome{
+    padding: 20px;
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+}
+
+main{
+    background-color: aliceblue;
+    color: black;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.4;
+
+}
